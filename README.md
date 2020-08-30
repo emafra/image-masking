@@ -1,4 +1,4 @@
-####  In this directory is the resolution of 5 different problems (matlab solving).
+####  In this directory is the resolution of 5 different problems (Matlab solving).
 - [X] Image equalization through its histogram
 
 - [X] Detecting an image containing coins and calculating the resulting value
